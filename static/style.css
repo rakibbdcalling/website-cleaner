@@ -28,6 +28,7 @@ textarea {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    font-weight: bold;
 }
 
 button {
